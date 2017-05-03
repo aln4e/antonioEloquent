@@ -1,3 +1,11 @@
+//Eloquent Javascript Chapter 2) Looping a Triangle
+
+var str;
+for (i=0;i<7;i++){
+    str = str + "#";
+    console.log(str);
+}
+
 //Eloquent Javascript Chapter 2) FizzBuzz
 
 for(i=1;i<101;i++){
